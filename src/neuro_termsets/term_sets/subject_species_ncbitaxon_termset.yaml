@@ -79,3 +79,18 @@ enums:
       Drosophila persimilis:
         description: Drosophila persimilis.
         meaning: NCBITaxon:7234
+      Ovis aries:
+        description: Sheep.
+        meaning: NCBITaxon:9940
+      Mustela putorius furo:
+        description: Domestic ferret.
+        meaning: NCBITaxon:9669
+      Molothrus ater:
+        description: Brown-headed cowbird.
+        meaning: NCBITaxon:84834
+      Cebus imitator:
+        description: Panamanian white-faced capuchin.
+        meaning: NCBITaxon:2715852
+      Hofstenia miamia:
+        description: Acoel worm.
+        meaning: NCBITaxon:442651
